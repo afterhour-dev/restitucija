@@ -41,14 +41,12 @@
             "id": "86189464f6d73b42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "David Schmpf/Sta treba navesti.md",
-                "mode": "source",
-                "source": false
+                "file": "Weber Franz Resenje.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Sta treba navesti"
+              "icon": "lucide-image",
+              "title": "Weber Franz Resenje"
             }
           }
         ],
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "David Schmpf/Sta treba navesti.md",
+                "file": "Weber Franz Resenje.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sta treba navesti"
+              "title": "Backlinks for Weber Franz Resenje"
             }
           },
           {
@@ -144,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "David Schmpf/Sta treba navesti.md",
+                "file": "Weber Franz Resenje.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sta treba navesti"
+              "title": "Outgoing links from Weber Franz Resenje"
             }
           },
           {
@@ -173,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "David Schmpf/Sta treba navesti.md",
+                "file": "Weber Franz Resenje.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sta treba navesti"
+              "title": "Outline of Weber Franz Resenje"
             }
           }
         ]
@@ -201,13 +199,16 @@
   },
   "active": "86189464f6d73b42",
   "lastOpenFiles": [
+    "David Schmpf/~$razac - Zahtev za izdavanje uverenja o identifikaciji katastarske parcele _prilog2.docx",
+    "David Schmpf/Obrazac - Zahtev za izdavanje uverenja o identifikaciji katastarske parcele _prilog2.docx",
     "Ulosci I parcele.md",
+    "David Schmpf/2. Vlastovnica David Schimpf.JPG",
+    "Weber Franz Resenje.jpg",
     "David Schmpf/Sta treba navesti.md",
     "David Schmpf/Vlastovnica David Schimpf.JPG",
     "David Schmpf/Vlastovnica.md",
     "David Schmpf",
     "621/2.JPG",
-    "Weber Franz Resenje.jpg",
     "618/5.JPG",
     "618/4.JPG",
     "618/3.JPG",
@@ -215,7 +216,6 @@
     "618/1.JPG",
     "618",
     "621/5.JPG",
-    "621/4.JPG",
     "621",
     "Restucija.md",
     "ulosci"
