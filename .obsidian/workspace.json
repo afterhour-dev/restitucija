@@ -10,16 +10,31 @@
           {
             "id": "bd5ca3e064c44b2b",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Weber Franz Resenje.jpg"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8e25e4d589ca33cf",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Restucija.md",
+                "file": "Ulosci I parcele.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Restucija.md",
+                "file": "Ulosci I parcele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Restucija.md",
+                "file": "Ulosci I parcele.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Restucija.md"
+                "file": "Ulosci I parcele.md"
               }
             }
           }
@@ -146,8 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd5ca3e064c44b2b",
+  "active": "8e25e4d589ca33cf",
   "lastOpenFiles": [
-    "Restucija.md"
+    "Weber Franz Resenje.jpg",
+    "Ulosci I parcele.md",
+    "618/5.JPG",
+    "618/4.JPG",
+    "618/3.JPG",
+    "618/2.JPG",
+    "618/1.JPG",
+    "618",
+    "621/5.JPG",
+    "621/4.JPG",
+    "621/3.JPG",
+    "621/2.JPG",
+    "621/1.JPG",
+    "621",
+    "Restucija.md",
+    "ulosci"
   ]
 }
