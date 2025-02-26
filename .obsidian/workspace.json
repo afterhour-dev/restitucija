@@ -41,12 +41,14 @@
             "id": "86189464f6d73b42",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Weber Franz Resenje.jpg"
+                "file": "Ulosci I parcele.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Weber Franz Resenje"
+              "icon": "lucide-file",
+              "title": "Ulosci I parcele"
             }
           }
         ],
@@ -197,25 +199,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86189464f6d73b42",
+  "active": "373e7a6e9fa07f11",
   "lastOpenFiles": [
+    "711/1.JPG",
+    "711/2.JPG",
+    "711/2.JPG.crdownload",
+    "711/IMG_0060.JPG",
+    "711/IMG_0060.JPG.crdownload",
+    "711",
+    "710/3.JPG",
+    "710/2.JPG",
+    "710/1.JPG",
+    "710",
+    "Weber Franz Resenje.jpg",
     "David Schmpf/~$razac - Zahtev za izdavanje uverenja o identifikaciji katastarske parcele _prilog2.docx",
     "David Schmpf/Obrazac - Zahtev za izdavanje uverenja o identifikaciji katastarske parcele _prilog2.docx",
     "Ulosci I parcele.md",
     "David Schmpf/2. Vlastovnica David Schimpf.JPG",
-    "Weber Franz Resenje.jpg",
     "David Schmpf/Sta treba navesti.md",
     "David Schmpf/Vlastovnica David Schimpf.JPG",
     "David Schmpf/Vlastovnica.md",
     "David Schmpf",
     "621/2.JPG",
     "618/5.JPG",
-    "618/4.JPG",
-    "618/3.JPG",
-    "618/2.JPG",
-    "618/1.JPG",
     "618",
-    "621/5.JPG",
     "621",
     "Restucija.md",
     "ulosci"
